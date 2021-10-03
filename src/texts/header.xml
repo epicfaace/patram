@@ -1,0 +1,177 @@
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title type="main" xml:lang="sa">श्रीमन् महाभारतम्</title>
+				<title xml:lang="en" type="sub">A SARIT edition</title>
+				<author xml:lang="sa">व्यास</author>
+				<principal><persName>Shrinivasa Varakhedi</persName>
+					<note>Creation of the machine-readable text from the printed edition</note>.
+					Shrinivasa Varakhedi began work while at the <affiliation><orgName>Rashtriya
+							Sanskrit Vidyapeetha</orgName>,
+						<placeName>Tirupati</placeName></affiliation> and continued this work with
+					the support of research team members in various places, including
+						<placeName>Hyderabad</placeName> and <placeName>Bangalore</placeName> and
+					Professor <persName>K. V. Ramakrishnamacharyulu</persName>, <persName>Amba
+						Kulakarni</persName>, <persName>Prof. Prahladachar</persName>, and members
+					of <orgName>MSP Bangalore</orgName> and many others.</principal>
+			</titleStmt>
+			<editionStmt>
+				<p>This e-text is based on the `Southern Recension' of the Mahābhārata, edited by
+						<ref target="#mb-krishnacharya">Krishnacharya 1906–1914</ref>.</p>
+			</editionStmt>
+			<publicationStmt>
+				<authority>SARIT: Search and Retrieval of Indic Texts</authority>
+				<availability status="restricted">
+					<p>Copyright Notice</p>
+					<p>Distributed by <ref type="url" target="http://sarit.indology.info"
+							>SARIT</ref> under a <ref type="licence"
+							target="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons
+							Attribution-ShareAlike 3.0 Unported License. </ref></p>
+					<p>Under this licence, you are free <list>
+							<item>to Share — to copy, distribute and transmit the work</item>
+							<item>to Remix — to adapt the work </item>
+						</list></p>
+					<p>Under the following conditions:</p>
+					<p>
+						<list>
+							<item>Attribution — You must attribute the work in the manner specified
+								by the authorparva or licensor (but not in any way that suggests
+								that they endorse you or your use of the work).</item>
+							<item>Share Alike — If you alter, transform, or build upon this work,
+								you may distribute the resulting work only under the same or similar
+								license to this one.</item>
+						</list></p>
+					<p>More information and fuller details of this license are given on the Creative
+						Commons website.</p>
+					<p>SARIT assumes no responsibility for unauthorised use that infringes the
+						rights of any copyright owners, known or unknown.</p>
+				</availability>
+				<date>2012-2016</date>
+				<idno>2013-03-05</idno>
+			</publicationStmt>
+			<notesStmt>
+				<note>In Devanāgarī script.</note>
+			</notesStmt>
+
+			<sourceDesc>
+				<bibl>
+					<title>॥ श्रीः ॥ श्रीमन्महाभारतम् । सटिप्पणम् । ... टी. आर्. कृष्णाचार्येण टी.
+						आर्. ब्यासाचार्येण च अनेकेषां विदुषां साहाय्येन दाक्षिणात्यबहुकोशानुसारेण
+						संशोध्य ... प्रकाशितम् । = Sriman Mahabharatam. A New Edition Mainly Based on
+						the South Indian Texts, with Footnotes and Readings</title>
+					<extent>17 volumes</extent>
+					<publisher>निर्णयसागरमुद्रणयन्त्रे मुद्रयित्वा</publisher>
+					<editor>टी. आर्. कृष्णाचार्य</editor>
+					<editor>टी. आर्. व्यासाचार्य</editor>
+					<affiliation> कुम्भघोणस्थेन श्रीमन्मध्वविलासपुस्तकाल </affiliation>
+					<date>1906-1910</date>
+					<pubPlace> मुंबापुर्यां </pubPlace>
+					<note>PDFs of the publication are downloadable from <ptr
+							target="http://www.mahabharata-resources.org"/></note>
+					<note>BibTeX description: @BOOK{maha-kumb, title = {Śrīḥ Śrīman Mahābhāratam.
+						Saṭippaṇam \ldots\ Ṭī. Ār. Kṛṣṇācāryeṇa Ṭī. Ār. Vyāsācāryeṇa ca anekeṣāṃ
+						viduṣāṃ sāhāyyena dākṣiṇātyabahukośānusāreṇa saṃśodhya = Sriman
+						Mahabharatam. A New Edition Mainly Based on the South Indian Texts, with
+						Footnotes and Readings}, year = {1906--1910}, address = {Bombay}, publisher
+						= {Nirnayasagar Press}, editor = {T. R. Krishnacharya and T. R.
+						Vyasacharya}, url = {http://www.mahabharata-resources.org/}, note = {17v},
+						timestamp = {2012.12.06} }</note>
+					<note>
+						<p>Files supplied by Prof. <persName sameAs="sv">Shrinivasa
+								Varakhedi</persName>.</p>
+						<p>They are based on the edition by T. R. Krishnacharya and T. R.
+							Vyasacharya, Kumbakonam, 1906-1910 (<ptr
+								target="http://www.worldcat.org/oclc/46190386"/>.</p>
+						<p>Droṇaparva 15 is empty.</p>
+					</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc xml:id="encoding">
+			<p>The source files were sent to <persName key="name person dw">Dominik Wujastyk</persName> by
+					<persName sameAs="sv">Shrinivasa Varakhedi</persName>, <roleName>Dean and
+					Director</roleName>
+				<orgName>Karnataka Sanskrit University</orgName>
+				<address><addrLine>24/10, Vaijayanta, Temple Rd,</addrLine>
+      	<addrLine>ITI layout, BSK III Stage</addrLine>
+      	<addrLine><placeName>Bangalore</placeName> 85</addrLine></address>
+				<email>shrivara@gmail.com</email>) in <date>October 2012</date>. <persName
+					sameAs="#dw">Dominik Wujastyk</persName> converted the files to utf-8 IAST
+				encoding. These files were then combined and converted into a single XML file by
+					<persName sameAs="#pma">Patrick McAllister</persName>. </p>
+
+			<p>Various XML comments are still in the file now, like: ``new file: ./01
+				adiparva/MB-a_Adi_ch001". This should of course be changed (they should be either
+				removed or put into appropriate XML elements), but at the moment this is a useful
+				compromise. So, please <emph>do not</emph> remove them! </p>
+
+			<p> The individual chapters are supposed to be div elements  whose parent is the body element. The individual adhyāyas are supposed to be div
+				elements below the chapters (i.e., body --> div --> div). Below these, there are line group (lg) elements and paragraphs. The
+				paragraphs should vanish, in the end: the introductory parts could not be
+				automatically converted, and the footnotes should be put into the text. The line
+				group elements contain lines (l), of course. It is not predictable how many. These
+				lines contain segment elements, each segment corresponding to a <rs xml:lang="sa"
+					>pāda</rs>, unless it is a `speaker' line (see <ref
+					target="#line-element-description"/>). </p>
+
+			<p>The format of the xml:id-s is as follows: 
+			<list>
+			  <item>
+			    <emph>General</emph>: the xml:id-s are based on the line prefixes found in the source files. These had various troubles, yielding non-unique xml:id-s. This has been fixed now, with the help of the printed edition. It still does not mean, however, that they are all `right'. They're just unique. One should be careful in inferring, e.g., that the xml:id shanti-12-34-12 is indeed the id of the twelfth verse in the thirty-fourth adhyāya of the Śāntiparvan (though we hope it is). 
+					</item>
+
+					<item><emph>line group (lg) elements</emph> (e.g.,
+						xml:id="karna-8-7-57"): format: shorthand of chapter + number of
+						chapter + number of adhyāya + verse number.</item>
+
+					<item xml:id="line-element-description">
+						<emph>line (l) elements</emph> (e.g., xml:id="adi-1-260-0x"): format:
+						shorthand of chapter + number of chapter + number of adhyāya + [abcdefx]. The `x' was in the source file; it
+						usually marks a speaker change, so I put rend="speak" on these lines (if there's more than one speaker per linegroup, so that the xml:id would not be unique anymore, I add an additional x). </item>
+
+					<item><emph>paragraph elements</emph>: mainly for footnotes, and some passages
+						(only introductory I think) not yet put into line groups. </item>
+				</list>
+			</p>
+
+		</encodingDesc>
+		<revisionDesc>
+			<change from="2007" to="2012" who="#sv">
+				<persName key="name person sv">Prof. Shrinivasa Varakhedi </persName>Director of the Sansknet
+				Project. Creation of e-text. February 2007-2012. </change>
+			<change when="2012-10-09">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: Conversion of files to utf-8
+				encoding. <date>2012-10-09</date>
+			</change>
+			<change when="2012-10-28">Converted from source files (provided by <persName
+					sameAs="#dw">Dominik Wujastyk</persName>) to TEI XML by <persName sameAs="#pma"
+					>Patrick McAllister</persName>
+				<date>2012-10-28</date>
+			</change>
+			<change from="2012-10-01" to="2012-11-30" who="#pma">
+				<persName key="name person pma">Patrick McAllister</persName>: Various corrections.
+					<date>October and November 2011</date>
+			</change>
+			<change when="2012-12-06" who="#dw">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: Added a fuller bibliographical
+				description of the printed edition from which this e-text was derived. Other tweaks
+				to the TEI header; no changes to the text. </change>
+			<change when="2012-12-06" who="#dw">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: Added head statements at the
+				start of each adhyāya. </change>
+			<change when="2012-12-13">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: Tidied and corrected the adhyāya
+				names and their sequences, especially in the Śāntiparvan and Aśvamedhikaparvan.
+				Checked for omissions and additions. </change>
+			<change when="2012-12-13">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: commented out the apparent
+				garbage text between adhyāyas 29 and 30 in the śalyaparvan.</change>
+			<change when="2013-07-28" who="#dw">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: corrected ​आध्यायः and अध्यायः
+				to अध्यायः in the headings. Thanks to the notification of Shreeshrii via the Github
+				cwebsite.</change>
+			<change when="2013-07-28" who="#dw">
+				<persName sameAs="#dw">Dominik Wujastyk</persName>: typed in verses 1-8 of the Bhismaparvan
+				from the Kumbakonam editon.</change>
+		</revisionDesc>
+	</teiHeader>
